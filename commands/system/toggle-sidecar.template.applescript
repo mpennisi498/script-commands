@@ -11,12 +11,12 @@
 
 # Documentation:
 # @raycast.description Toggles on/off a Sidecar screen.
-# @raycast.author Marcos S‡nchez-Dehesa
+# @raycast.author Marcos Sâ€¡nchez-Dehesa
 # @raycast.authorURL https://www.github.com/dehesa
 
 # The name of the device to be connected as a sidecar screen (e.g. the name of your iPad).
 # You can figure out the exact device's name by going to System Preferences > Displays > Add Display.
-set displayName to "Honiara"
+set displayName to "iPad"
 # If your system is not in English, you should change this text to text display in the pop up menu item in System Preferences > Displays > Add Display.
 set menuItemName to "Add Display"
 # The System Preferences > Displays screen takes a long time to load (I don't know why). This delay waits for the screen to properly load. Your system may need less or more seconds. Do some trial and errors.
